@@ -67,7 +67,7 @@ body {
 
 
 .empty {
-  color: #999;
+  color: #838181;
   font-style:normal;
 }
 
@@ -77,6 +77,6 @@ body {
 
 .list li {
   font-size: 15px;
-  color: #644444;
+  color: #0c0a0a;
   margin-bottom: 10px;
 }
